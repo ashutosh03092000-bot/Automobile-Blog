@@ -1,0 +1,20 @@
+{
+  "params":
+  {
+    "blog_name": "Automobile Blog",
+    "local_sever": "True",
+    "local_uri": "mysql://root:@localhost/automobile_blog",
+    "prod_uri": "mysql://root:@localhost/automobile_blog",
+    "fb_url": "https://facebook.com/automobile_blog",
+    "tw_url": "https://twitter.com/automobile_blog",
+    "gh_url": "https://github.com/automobile_blog",
+    "gmail-user": "automobile.blog.at@gmail.com",
+    "gmail-password": "iwdkgvcpidevanry",
+    "about_text": "Hello there, I am Ashutosh and I welcome you to heaven for Auto lovers. Fed up with poor customer service, product selection, and lack of information? Our site changes all of that.\n\nWhether you are looking to get a simple air intake or a full out time attack machine, we can help with your project.  We have dealt with many one off wheel builds in the past and have extensive knowledge for wheel fitment.  If you have any questions about wheel fitment, please ask!",
+    "no_of_posts": 2,
+    "login_image":"login.png",
+    "admin_user":"ashutosh",
+    "admin_password": "1234567",
+    "upload_location": "C:\\Users\\pc\\Desktop\\Flask\\static"
+  }
+}
